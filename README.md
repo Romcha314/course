@@ -1,6 +1,6 @@
 # CarDetector
-CourseWork TP, requires python3 PyQt5 and opencv-python
+CourseWork TP, requires python3 and opencv-python
 # How yo use?
-Just run bin\CarDetector.exe
+Just run bin\car_Detection
 # OR
 Activate environment by env\Scripts\activate and run python\src\main.py
